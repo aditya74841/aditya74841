@@ -2,12 +2,10 @@
 
 
 
-- 🔭 I’m currently working on backend
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about any tech releated stuff
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m intrested in Webdevlopment
+- 🌱 I’m currently Persuing B.tech CSE
+
+- 📫 How to reach me: aditya74810@gmail.com
+
 -->
+

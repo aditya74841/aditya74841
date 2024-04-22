@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **React,Mongodb,Nodejs**
+- 💬 Ask me about **React,Mongodb,Nodejs,Nextjs,**
 
 - 📫 How to reach me **ranjanaditya624@gmail.com**
 

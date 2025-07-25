@@ -42,8 +42,8 @@ I am a highly skilled and passionate full stack developer with extensive experie
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ## 📊 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya74843&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya74843&layout=compact&theme=radical)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya74841&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya74813&layout=compact&theme=radical)
 
 ## 🌟 Professional Recommendations
 
@@ -64,9 +64,9 @@ I am a highly skilled and passionate full stack developer with extensive experie
 
 ## 📫 Let's Connect
 - 🌐 **Portfolio:** [iamadityaranjan.com](https://iamadityaranjan.com)
-- 💼 **GitHub:** [@aditya74843](https://github.com/aditya74843)
-- 📧 **Email:** [Your Email Here]
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
+- 💼 **GitHub:** [@aditya74841](https://github.com/aditya74841)
+- 📧 **Email:** aditya@iamadityaranjan.com
+- 💼 **LinkedIn:** [@iamadityaranjan]((https://www.linkedin.com/in/iamadityaranjan/))
 
 ---
-<p align="center">⭐️ From <a href="https://github.com/aditya74843">aditya74843</a></p>
+<p align="center">⭐️ From <a href="https://github.com/aditya74843">aditya74841</a></p>

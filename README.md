@@ -66,7 +66,7 @@ I am a highly skilled and passionate full stack developer with extensive experie
 - 🌐 **Portfolio:** [iamadityaranjan.com](https://iamadityaranjan.com)
 - 💼 **GitHub:** [@aditya74841](https://github.com/aditya74841)
 - 📧 **Email:** aditya@iamadityaranjan.com
-- 💼 **LinkedIn:** [@iamadityaranjan]((https://www.linkedin.com/in/iamadityaranjan/))
+- 💼 **LinkedIn:** [@iamadityaranjan](https://www.linkedin.com/in/iamadityaranjan/)
 
 ---
 <p align="center">⭐️ From <a href="https://github.com/aditya74843">aditya74841</a></p>

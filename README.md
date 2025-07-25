@@ -43,7 +43,7 @@ I am a highly skilled and passionate full stack developer with extensive experie
 
 ## 📊 GitHub Stats
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya74841&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya74813&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya74841&layout=compact&theme=radical)
 
 ## 🌟 Professional Recommendations
 
